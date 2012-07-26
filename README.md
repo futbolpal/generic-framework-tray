@@ -5,13 +5,13 @@ Allows your framework built application to create system tray notifications (Win
 
 Adds functionality to the framework allowing the application to be minimized to the system tray (Windows Only)
 
-## Module Manifest
+### Module Manifest
 Type: Plugin
 
-## Export
+### Export
 Export a .jar file with the manifest.txt
 
 
-## Installation
+### Installation
 Place in the 'plugins' folder of your applications directory structure
 
